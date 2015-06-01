@@ -1,0 +1,26 @@
+body {
+	-box-sizing: border-box;
+}
+h1 {
+  display: block;
+  color: white;
+  font-family: arial;
+  font-size: 2em;
+  height: 60px;
+  width: 705px;
+  margin-bottom: 20px;
+  font-weight: normal;
+  background-color: #33BEBE;
+}
+.app {
+	display: flex;
+}
+.description {
+	font-family: 
+	arial;
+	width: 440px;
+	padding-left: 20px;
+}
+.screenshot {
+	width: 250px;
+}
